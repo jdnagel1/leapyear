@@ -1,0 +1,29 @@
+.hidden{
+  display: none;
+}
+
+img{
+  height: 76px;
+  width: 50px;
+}
+h2{
+  text-align:center;
+}
+
+.form-control{
+  width: 30%;
+}
+
+body{
+  background-color:#ffffed;
+  font-family:cousine;
+}
+
+ul{
+  float:right;
+  margin-right: 33%;
+}
+
+.jumbotron{
+  background-color:#ffffed;
+}
